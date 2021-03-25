@@ -1,0 +1,16 @@
+PODS:
+  - InAppDemo (0.1.0)
+
+DEPENDENCIES:
+  - InAppDemo (from `../`)
+
+EXTERNAL SOURCES:
+  InAppDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InAppDemo: 9aa1ddaf4418ca2bea72c884070a77a17456a26c
+
+PODFILE CHECKSUM: 99b6f60717a918426a78b1e18ea06c9f22f70921
+
+COCOAPODS: 1.10.0

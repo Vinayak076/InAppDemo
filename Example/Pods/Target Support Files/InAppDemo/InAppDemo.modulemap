@@ -1,0 +1,6 @@
+framework module InAppDemo {
+  umbrella header "InAppDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

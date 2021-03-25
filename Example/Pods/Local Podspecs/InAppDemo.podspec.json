@@ -1,0 +1,22 @@
+{
+  "name": "InAppDemo",
+  "version": "0.1.0",
+  "summary": "A short description of InAppDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anil@eneblur.com/InAppDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anil@eneblur.com": "vinayakt@moback.com"
+  },
+  "source": {
+    "git": "https://github.com/anil@eneblur.com/InAppDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "InAppDemo/Classes/**/*"
+}
